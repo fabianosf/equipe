@@ -378,8 +378,8 @@ h1 span {
 }
 
 /*for placeholder changes*/
-
-/*input::-webkit-input-placeholder {
+/*******************************************************/
+input::-webkit-input-placeholder {
   color: #CACACA;
   font-size: 18px;
 }
@@ -410,7 +410,7 @@ textarea::-ms-input-placeholder
   text-align:center;
 }
 
-*/
+
 
 
 /* For Our Global CSSS */
